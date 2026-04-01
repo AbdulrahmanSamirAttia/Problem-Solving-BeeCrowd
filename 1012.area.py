@@ -3,6 +3,8 @@ BeeCrowd Problem 1012 - Area
 Calculates areas for different geometric shapes based on three input values.
 """
 
+
+""" Solution (A) """
 # Constants
 PI = 3.14159
 
